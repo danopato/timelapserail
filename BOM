@@ -1,0 +1,46 @@
+Frame
+2	3/4" EMT conduit
+4	3/4" PVC fitting: 90 degree elbows
+2	3/4" PVC fitting: cross connector
+2	3/4" PVC fitting: end cap
+2	1/4" turnbuckle
+
+Carriage - trucks
+4	608ZZ skate bearings
+4	5/16" x 1" steel dowel pin
+8	#10 2.5" button head machine screw
+8	#10 lock nut
+8	printed part - truck
+4	printed part - truck brace connector
+
+Carriage - platform
+2	1/2" x 1' threaded rod
+16	1/2" nut
+16	1/2" washer
+16	1/2" lock washer
+4	printed part - carriage joiner
+8	#10 1.5" machine screw
+8	#10 lock nut
+1	1/4" 2" bolt
+4	1/4" washer
+1	1/4" lock washer
+1	tripod ball head
+
+Motion
+1	printed part - motor mount
+1	NEMA17 stepper motor
+1	GT2 open timing belt
+	zipties
+
+Electronics
+1	NPN transistor
+1	resistor
+1	.3mm solder-ready phono plug
+1	Arduino Nano
+1	L293D QUADRUPLE HALF-H DRIVER
+	header pins
+1	proto-board
+	pick-up wire
+	wire wrap wire
+	solder
+1	project box

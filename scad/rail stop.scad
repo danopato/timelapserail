@@ -7,7 +7,7 @@ module hexagon(size, height) {
 
 
 emtd = 23.4;
-thickness = 5;
+thickness = 6;
 
 tiethickness = 0.5 * thickness;
 
