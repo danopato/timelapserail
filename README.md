@@ -1,5 +1,7 @@
 A Time Lapse Rail
 =================
+![Picture of the rail](http://danopato.github.io/timelapserail.jpg)
+
 This project was inspired by David Hunt's excellent documentation of a hardware store timelapse rail project:  http://www.davidhunt.ie/motorised-time-lapse-rail-with-raspberry-pi/
 
 The goal is to use easily sourced hardware store components and 3d printed parts for the complicated joinery.
